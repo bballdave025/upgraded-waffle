@@ -22,6 +22,6 @@ thebballdave025 > My Drive > _Course_Reference > Quick_Dirs_Etc_Udemy_2023_Certs
                 > UdJoseBroadTFDL_Section_001 > UdJoseBroadTFDL_001_Downloads
 ```
 
-which has the directory, `FULL_TENSORFLOW_NOTES__AND_DATA`, and the file,
-`tfdl_env.yml`
+which has the directory, `FULL_TENSORFLOW_NOTES__AND_DATA`<strike>, and the file,
+`tfdl_env.yml`</strike>.
 
