@@ -164,3 +164,63 @@ Then to activate it and start going with the Jupyter Notebooks, the next code sn
 (tfdeeplearning) C:\bballdave025\my_repos_dwb>jupyter notebook
 ```
 
+### Citation
+
+I'm `copy/paste`ing one copy of the original instructions for a proper citation. 
+It's not visible unless you've paid for the course, so I can't just put up an archived copy.
+
+```
+https://www.udemy.com/course/complete-guide-to-tensorflow-for-deep-learning-with-python/learn/lecture/7982588#questions/10951998
+
+retrieved 1699918656_20231113T163736-0700
+```
+
+`__user-circle__` AS `__END_user-circle__`
+
+> `*WINDOWS SOLUTION* Enviornment File Problems                         ` <br/>
+> `47 upvotes                                                           ` <br/>
+> `Adam · Lecture 5 · 3 years ago                                       ` <br/>
+> `A lot of people are getting enviornment file errors, even with the   ` <br/>
+> `"updated" version                                                    ` <br/>
+> `                                                                     ` <br/>
+> `Here is a *WORKING* enviornment file                                 ` <br/>
+> `                                                                     ` <br/>
+> `https://pastebin.com/2g6KGH9a                                        ` <br/>
+> `                                                                     ` <br/>
+> `1) cd to your downloaded folder of notes from this course            ` <br/>
+> `2) Create a new .txt file with Notepad call it tfdl_env.txt          ` <br/>
+> `3) Copy paste the data from the link above into this txt file        ` <br/>
+> `4) while in the directory run the command at the first line of the   ` <br/>
+> `   text file, it should be this :)                                   ` <br/>
+> `                                                                     ` <br/>
+> `        conda create --name tfdeeplearning --file tfdl_env.txt       ` <br/>
+> `                                                                     ` <br/>
+> `Hope this works for you all!                                         ` <br/>
+> `                                                                     ` <br/>
+> `Make sure you're running this txt file and not the current env file  ` <br/>
+> `by mistake if you get an error. And just continue on with the        ` <br/>
+> `instructions:                                                        ` <br/>
+> `        activate tfdeeplearning                                      ` <br/>
+> `                                                                     ` <br/>
+> `        jupyter notebook                                             ` <br/>
+> `                                                                     ` <br/>
+> `  ...etc                                                             ` <br/>
+> `                                                                     ` <br/>
+> `Notes:                                                               ` <br/>
+> `                                                                     ` <br/>
+> ` * you may need to run                                               ` <br/>
+> `                                                                     ` <br/>
+> `        conda activate tfdeeplearning                                ` <br/>
+> `                                                                     ` <br/>
+> `                                                                     ` <br/>
+> ` * for "Section 11: Reinforcement Learning..." I am not sure if gym  ` <br/>
+> `   is installed in this env file. There is already a solution in     ` <br/>
+> `   Lecture 84 that worked for me, simply:                            ` <br/>
+> `                                                                     ` <br/>
+> `        activate tfdeeplearning                                      ` <br/>
+> `                                                                     ` <br/>
+> `        pip install gym                                              ` <br/>
+> `                                                                     ` <br/>
+> `   - if you get a permission error run                               ` <br/>
+> `                                                                     ` <br/>
+> `        pip install gym --user                                       ` <br/>
